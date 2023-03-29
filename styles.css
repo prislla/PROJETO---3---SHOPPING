@@ -169,13 +169,13 @@ header {
         font-size: 50px;
         font-weight: 52px;
         width: auto;
-        margin: 50px 50px 0 50px;
+        margin: 30px 50px 0 50px;
         text-align: center;
-        line-height: 85px;
+        line-height: 55px;
     }
 
     p {
-        margin: 35px 65px;
+        margin: 30px 65px 10px 65px;
         width: auto;
         text-align: center;
         font-size: 16px;
@@ -187,14 +187,14 @@ header {
         margin: 0 auto;
         display: block; /*pra alinhar o botão colocamos margin em cima e embaixo 0 e dos lados auto, pra ele ficar no meio tem que ser display block*/
         width: 268px;
-        height: 48px;
+        height: 38px;
         font-size: 27px;
     }
 
     img {
         position: static;
-        max-width: 80%; /*máximo q vai crescer*/
-        height: 380px;
+        max-width: 70%; /*máximo q vai crescer*/
+        height: 435px;
    }
 }
 
@@ -238,6 +238,6 @@ header {
     img {
         position: static;
         max-width: 80%; /*máximo q vai crescer*/
-        height: 360px;
+        height: 280px;
    }
 }
